@@ -4,7 +4,7 @@ A full-stack web application built using **React**, **Node.js**, **Express**, an
 
 ## 🌐 Live Demo
 
-> Hosted on **Netlify** – [Click here to view](https://your-netlify-link.com)  
+> Hosted on **Netlify** – [Click here to view]https://dynamic-maamoul-ba5b97.netlify.app/
 > *(Replace with actual Netlify deployment link)*
 
 ---
